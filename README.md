@@ -68,14 +68,8 @@ Creating this ePortfolio has been both a reflective and rewarding experience. It
 
 As I move forward in my professional career, I will continue building upon the foundation established through this program. The technical expertise, collaborative experiences, and problem-solving skills developed during my studies have prepared me to contribute meaningfully to the field of computer science and pursue opportunities for continued learning and professional advancement.
 
-References
+Here, I have included my screencast link for my code review: 
+https://1drv.ms/v/c/7436c2122bb2454f/IQANaww40RJFQ4r7HiSjLMxLAXubpU0AQ1ZMDAZqIv6E8Jc?e=fgAoBo
 
-Cormen, T. H., Leiserson, C. E., Rivest, R. L., & Stein, C. (2022). Introduction to algorithms (4th ed.). MIT Press.
 
-National Institute of Standards and Technology. (2020). Security and privacy controls for information systems and organizations (NIST Special Publication 800-53 Rev. 5). U.S. Department of Commerce. https://doi.org/10.6028/NIST.SP.800-53r5
 
-Pressman, R. S., & Maxim, B. R. (2020). Software engineering: A practitioner's approach (9th ed.). McGraw-Hill Education.
-
-Silberschatz, A., Korth, H. F., & Sudarshan, S. (2019). Database system concepts (7th ed.). McGraw-Hill Education.
-
-Sommerville, I. (2020). Software engineering (10th ed.). Pearson.
